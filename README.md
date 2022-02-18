@@ -1,5 +1,5 @@
 # Creo-Projects
-My engineering design projects using Creo Parametric
+My tool design projects using Creo Parametric
 
 assembly.asm.16 : Table vise 3D
 
